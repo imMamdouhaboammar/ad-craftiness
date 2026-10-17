@@ -12,14 +12,14 @@
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](./scripts)
 
 <p align="center">
-  <b>A source-locked, practical AI playbook for creative thinking and advertising concept build-up, rigorously grounded in Farouk Elkady's masterclass:</b><br>
+  <b>A source-locked AI playbook for creative thinking and advertising concept build-up, grounded in Farouk Elkady's workshop:</b><br>
   <i>"How to Come Up with an Ad Idea? | 20 Creative Thinking Methods from Scratch"</i>
 </p>
 
 <br>
 
 <details open>
-<summary><b>🎬 Live Interactive Demo · مشغل الفيديو المباشر (شاهد التجربة هنا دون مغادرة الصفحة)</b></summary>
+<summary><b>Demo Walkthrough</b></summary>
 <br>
 
 https://github.com/user-attachments/assets/faa256b2-4d0b-482f-b58c-2d683c82cf15
@@ -27,14 +27,14 @@ https://github.com/user-attachments/assets/faa256b2-4d0b-482f-b58c-2d683c82cf15
 <video src="https://github.com/user-attachments/assets/faa256b2-4d0b-482f-b58c-2d683c82cf15" controls="controls" width="100%" poster="./assets/demo-poster.png">
   <source src="https://github.com/user-attachments/assets/faa256b2-4d0b-482f-b58c-2d683c82cf15" type="video/mp4">
   <source src="./assets/recording.mp4" type="video/mp4">
-  <p>Your browser does not support HTML5 video. <a href="./assets/recording.mp4">Click here to watch the full recording</a>.</p>
+  <p>Your browser does not support HTML5 video. <a href="./assets/recording.mp4">Direct Video Link</a>.</p>
 </video>
 
 <p align="center">
-  <sub>🎥 <b>Interactive Showcase:</b> Using «صنعة الإعلان» in ChatGPT to decompose briefs, find consumer insights, and apply Farouk Elkady's 23 methods with grounded lecture timestamps.</sub>
+  <sub>Concept build-up and 23 creative thinking methods demonstrated with workshop timestamps.</sub>
   <br><br>
-  <a href="./assets/recording.mp4"><b>▶️ Watch High-Definition Video (1080p MP4)</b></a> &nbsp;|&nbsp;
-  <a href="https://raw.githubusercontent.com/imMamdouhaboammar/ad-craftiness/main/assets/recording.mp4"><b>⚡ Direct Stream (Raw MP4)</b></a>
+  <a href="./assets/recording.mp4"><b>1080p MP4</b></a> &nbsp;|&nbsp;
+  <a href="https://raw.githubusercontent.com/imMamdouhaboammar/ad-craftiness/main/assets/recording.mp4"><b>Raw Stream</b></a>
 </p>
 
 </details>
@@ -43,51 +43,47 @@ https://github.com/user-attachments/assets/faa256b2-4d0b-482f-b58c-2d683c82cf15
 
 ---
 
-## 📌 Attribution & Credits
+## Attribution & Credits
 
-> [!IMPORTANT]
-> This project bridges practical advertising mastery with reliable, source-grounded AI agent design:
-
-### 👨‍💻 Developer
+### Developer
 - **Mamdouh Aboammar**
 - **Rights & Scope:** Implementation of the Multi-Agent Skill, interactive playbook design, multi-platform manifests, automated testing suites (`tests/test_pack.py`), and anti-slop verification.
 - **GitHub:** [@imMamdouhaboammar](https://github.com/imMamdouhaboammar)
 - **Email:** `mamdouhfces1997@gmail.com`
 
-### 🎬 Original Content Creator & Creative Director
+### Content Creator & Creative Director
 - **Farouk Elkady**
 - Commercial director and creative strategist; creator of the original lecture, creative methodologies, and concept build-up frameworks.
-- **Official Links for Farouk Elkady:**
-  - 🎥 **YouTube Channel:** [www.youtube.com/@faroukelkady5340](http://www.youtube.com/@faroukelkady5340)
-  - 🎬 **Original Workshop Video:** [إزاي تطلع فكرة إعلان؟ | 20 طريقة للتفكير الإبداعي من الصفر](https://www.youtube.com/watch?v=cPVcjkcq5Ic&t=28s)
-  - 📘 **Facebook:** [facebook.com/farooukelkady](https://www.facebook.com/farooukelkady/)
-  - 📸 **Instagram:** [instagram.com/farooukelkady](https://www.instagram.com/farooukelkady/)
-  - 🎵 **TikTok:** [tiktok.com/@faroukelkady](https://www.tiktok.com/@faroukelkady?lang=en)
-  - 💼 **LinkedIn:** [linkedin.com/in/farouk-elkady-16572988](https://www.linkedin.com/in/farouk-elkady-16572988/)
-  - 🎨 **Behance:** [behance.net/Farouk_ELKady](https://www.behance.net/Farouk_ELKady)
+- **Official Links:**
+  - **YouTube Channel:** [youtube.com/@faroukelkady5340](https://www.youtube.com/@faroukelkady5340)
+  - **Workshop Video:** [إزاي تطلع فكرة إعلان؟ | 20 طريقة للتفكير الإبداعي من الصفر](https://www.youtube.com/watch?v=cPVcjkcq5Ic&t=28s)
+  - **Facebook:** [facebook.com/farooukelkady](https://www.facebook.com/farooukelkady/)
+  - **Instagram:** [instagram.com/farooukelkady](https://www.instagram.com/farooukelkady/)
+  - **TikTok:** [tiktok.com/@faroukelkady](https://www.tiktok.com/@faroukelkady?lang=en)
+  - **LinkedIn:** [linkedin.com/in/farouk-elkady-16572988](https://www.linkedin.com/in/farouk-elkady-16572988/)
+  - **Behance:** [behance.net/Farouk_ELKady](https://www.behance.net/Farouk_ELKady)
 
 ---
 
-## 🎯 Key Capabilities & Design Invariants
+## Key Capabilities & Design Invariants
 
-1. **Strict Source-Grounded Integrity (Zero Hallucination):** The assistant is firmly locked to the provided workshop transcript, citing accurate chapter timestamps.
-2. **Clear Tri-State Categorization in Answers:**
+1. **Source-Grounded Integrity:** Locked to the workshop transcript, citing exact chapter timestamps.
+2. **Tri-State Output Policy:**
    - **Taught in Lecture (قال في المحاضرة):** Direct claims and examples from Farouk with precise minute:second timestamps.
    - **Suggested Application (تطبيق مقترح):** Creative concepts generated for the user's brief, explicitly marked as new hypotheses.
-   - **Not in Lecture (مش مذكور في المحاضرة):** If a question falls outside the workshop scope, the assistant transparently admits it rather than inventing unsupported marketing theories.
-3. **Omni-Agent & Multi-Platform Ready:**
+   - **Not in Lecture (مش مذكور في المحاضرة):** Questions outside workshop scope are explicitly flagged rather than extrapolating unsupported marketing theories.
+3. **Platform Compatibility:**
    - OpenAI ChatGPT & Codex Plugins
    - Anthropic Claude Code
    - Cursor & Windsurf
    - Google Antigravity & Gemini CLI
-   - Lightweight Terminal CLI (Pure Python)
+   - Terminal CLI (Python)
 
 ---
 
-## 🗺️ The 23 Creative Thinking Methods
+## The 23 Creative Thinking Methods
 
-> [!NOTE]
-> While the workshop's marketing title advertises 20 methods, the actual spoken curriculum details **23 distinct techniques**. This skill embraces all 23 canonical methods:
+The workshop title cites 20 methods, while the spoken lecture delivers 23 distinct techniques:
 
 | # | Method (English) | الطريقة (العربية) | Workshop Timestamp |
 |:---:|---|---|:---:|
@@ -115,7 +111,7 @@ https://github.com/user-attachments/assets/faa256b2-4d0b-482f-b58c-2d683c82cf15
 | **22** | Testimonials & UGC | تجارب ومحتوى المستخدمين | `48:45` |
 | **23** | Product as Function & Environment | ربط المنتج بوظيفة وبيئة عملية | `50:05` |
 
-### Foundational Modules Before the Methods:
+### Foundational Modules:
 - **Research Phase:** `02:27` (Industry, Brand, Competitors, Target Audience).
 - **Advertising Objectives:** `04:40` (Awareness, CTA, Informative, Reminder).
 - **Concept Build-up:** `06:35` (Insight → Concept → Direction → Execution → Communication Platform).
@@ -123,18 +119,18 @@ https://github.com/user-attachments/assets/faa256b2-4d0b-482f-b58c-2d683c82cf15
 
 ---
 
-## 🚀 Installation & Usage
+## Installation & Usage
 
 ### 1. OpenAI ChatGPT / Codex Plugin
 
-#### ⚡ Quick Install: Install & Configure with ChatGPT Work
+#### Quick Install: Install & Configure with ChatGPT Work
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/openai.png" />
   <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/openai.png" width="24" height="24" alt="ChatGPT Logo" align="absmiddle" />
 </picture> **Install & Configure with ChatGPT Work**
 
-No manual setup required. Open the link below to launch ChatGPT Work with a pre-filled prompt that guides Plugin Creator through installing and configuring Ad Craftiness for you.
+Launch ChatGPT Work with a pre-configured prompt that installs and configures Ad Craftiness via Plugin Creator.
 
 [![Install with ChatGPT Work](https://img.shields.io/badge/Install%20with-ChatGPT%20Work-10a37f?style=for-the-badge&logo=openai&logoColor=white)](https://chatgpt.com/work?q=In%20Work%20Mode%3A%0AUse%20%40Plugin%20Creator%20to%20install%20https%3A%2F%2Fgithub.com%2FimMamdouhaboammar%2Fad-craftiness%20and%20Configure%20It%20for%20me)
 
@@ -144,12 +140,9 @@ https://chatgpt.com/work?q=In%20Work%20Mode%3A%0AUse%20%40Plugin%20Creator%20to%
 
 ---
 
-#### 📦 Manual Setup & Directory Submission
-The package is pre-configured for instant deployment to OpenAI ChatGPT and Codex:
-- **Download Release Archive:** Grab the pre-validated plugin zip from [GitHub Releases](https://github.com/imMamdouhaboammar/ad-craftiness/releases).
-- **Publish to OpenAI:** Upload the zip archive directly to [platform.openai.com/plugins](https://platform.openai.com/plugins) following [OpenAI Plugin Deployment Specifications](https://developers.openai.com/plugins/deploy/submission).
-- **Submission Dossier:** See the complete copy-paste submission guide and reviewer packet in [docs/OPENAI_SUBMISSION.md](./docs/OPENAI_SUBMISSION.md).
-- **Local Testing:** Clone or unpack the repository into your Codex or ChatGPT plugin workspace.
+#### Manual Setup
+- **Release Archive:** Download the pre-validated plugin zip from [GitHub Releases](https://github.com/imMamdouhaboammar/ad-craftiness/releases).
+- **Local Testing:** Clone or extract the repository into your Codex or ChatGPT plugin workspace.
 
 **Example Prompts:**
 - `Ask Farouk: How do I kick off a new creative brief?`
@@ -160,7 +153,7 @@ The package is pre-configured for instant deployment to OpenAI ChatGPT and Codex
 Copy `skills/ask-farouk-creative-thinking` into your local `.claude/skills/` or `.agents/skills/` directory.
 
 ### 3. Terminal CLI (Zero Dependencies)
-A pure Python CLI lookup utility is bundled:
+A Python CLI lookup utility is bundled:
 ```bash
 python3 scripts/search.py "وبعدين" --context 2
 python3 scripts/search.py "Concept" --context 1
@@ -168,7 +161,7 @@ python3 scripts/search.py "Concept" --context 1
 
 ---
 
-## 🧪 Testing & Quality Gate
+## Testing & Quality Gate
 
 Run the automated test suite to verify manifest limits, asset dimensions, and grounding policies:
 ```bash
@@ -177,7 +170,7 @@ python3 -m unittest discover -s tests -v
 
 ---
 
-## 📂 Repository Layout
+## Repository Layout
 
 ```text
 .
@@ -219,7 +212,7 @@ python3 -m unittest discover -s tests -v
 
 ---
 
-## 📄 License & Intellectual Property
+## License & Intellectual Property
 
 - **Code & Skill Instructions:** Open-source under the **MIT License** © Mamdouh Aboammar.
 - **Lecture Content & Methodology:** All rights to the lecture concepts, terminology, and transcript remain with the original author, **Farouk Elkady**. This skill is an educational, source-grounded companion and does not claim official endorsement or direct impersonation.
@@ -227,29 +220,28 @@ python3 -m unittest discover -s tests -v
 ---
 
 <details>
-<summary><b>📖 اضغط هنا لقراءة الدليل الكامل باللغة العربية (Arabic Documentation)</b></summary>
+<summary><b>Arabic Documentation</b></summary>
 <br>
 
 <div dir="rtl">
 
-## 🌟 «صنعة الإعلان» — دليل التفكير الإبداعي وصناعة الأفكار
+## «صنعة الإعلان»
 
 ### نبذة عن المشروع
-هذا المشروع هو **Playbook تفاعلي ذكي** لتحويل ورشة العمل الإعلانية للأستاذ **فاروق القاضي** (*"إزاي تطلع فكرة إعلان؟ | 20 طريقة للتفكير الإبداعي من الصفر"*) إلى مساعد ذكي موثق بالدقيقة والثانية لصناع الإعلانات والـ Copywriters والـ Creative Directors.
+هذا المشروع هو Playbook تفاعلي لتحويل ورشة العمل الإعلانية للأستاذ **فاروق القاضي** (*"إزاي تطلع فكرة إعلان؟ | 20 طريقة للتفكير الإبداعي من الصفر"*) إلى مساعد موثق بالدقيقة والثانية لصناع الإعلانات والـ Copywriters والـ Creative Directors.
 
-### 🎬 تجربة تفاعلية مصورة (Live Demo)
-شاهد المساعد الذكي يعمل بشكل حي وتفاعلي داخل ChatGPT لتوليد الأفكار وتحليل الـ Insights:
-- **مشاهدة الفيديو داخل المستودع:** [assets/recording.mp4](./assets/recording.mp4)
-- **رابط المشاهدة المباشر عالي الدقة:** [رابط مباشر للفيديو (Raw 1080p MP4)](https://raw.githubusercontent.com/imMamdouhaboammar/ad-craftiness/main/assets/recording.mp4)
+### عرض توضيحي
+- **ملف الفيديو:** [assets/recording.mp4](./assets/recording.mp4)
+- **رابط البث المباشر:** [Raw 1080p MP4](https://raw.githubusercontent.com/imMamdouhaboammar/ad-craftiness/main/assets/recording.mp4)
 
-### ⚡ التثبيت السريع عبر ChatGPT Work (بدون إعداد يدوي)
+### التثبيت السريع عبر ChatGPT Work
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/openai.png" />
   <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/openai.png" width="22" height="22" alt="ChatGPT Logo" align="absmiddle" />
 </picture> **Install & Configure with ChatGPT Work**
 
-لا يتطلب أي إعداد يدوي. افتح الرابط أدناه لبدء ChatGPT Work مع برومبت جاهز يوجّه Plugin Creator لتثبيت وضبط «صنعة الإعلان» لك:
+بدء ChatGPT Work مع برومبت مجهز يوجّه Plugin Creator لتثبيت وضبط «صنعة الإعلان»:
 
 [![Install with ChatGPT Work](https://img.shields.io/badge/Install%20with-ChatGPT%20Work-10a37f?style=for-the-badge&logo=openai&logoColor=white)](https://chatgpt.com/work?q=In%20Work%20Mode%3A%0AUse%20%40Plugin%20Creator%20to%20install%20https%3A%2F%2Fgithub.com%2FimMamdouhaboammar%2Fad-craftiness%20and%20Configure%20It%20for%20me)
 
@@ -258,7 +250,7 @@ python3 -m unittest discover -s tests -v
 https://chatgpt.com/work?q=In%20Work%20Mode%3A%0AUse%20%40Plugin%20Creator%20to%20install%20https%3A%2F%2Fgithub.com%2FimMamdouhaboammar%2Fad-craftiness%20and%20Configure%20It%20for%20me
 
 ### الحقوق ونسب العمل
-- **تطوير وبناء الـ Skill:** **ممدوح أبو عمار (Mamdouh Aboammar)** — مسؤول عن تطوير الـ Skill البرمجي، كتابة الـ Playbook التفاعلي، إعداد ملفات التوافق (`Manifests`) لجميع المنصات، وحزم الاختبارات الآلية (`tests`).
+- **تطوير وبناء الـ Skill:** **ممدوح أبو عمار (Mamdouh Aboammar)**: مسؤول عن تطوير الـ Skill البرمجي، كتابة الـ Playbook التفاعلي، إعداد ملفات التوافق (`Manifests`) لجميع المنصات، وحزم الاختبارات الآلية (`tests`).
 - **صاحب المحتوى الأصلي والمنهجية:** المخرج والمدير الإبداعي **فاروق القاضي (Farouk Elkady)**.
 
 ### ميثاق الأمانة والتحقق (Anti-Slop):
