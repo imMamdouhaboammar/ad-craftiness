@@ -16,23 +16,19 @@
   <i>"How to Come Up with an Ad Idea? | 20 Creative Thinking Methods from Scratch"</i>
 </p>
 
----
+<br>
 
-<p align="center">
-  <b>«صنعة الإعلان» — "Ad Craftiness"</b>
-</p>
+<details open>
+<summary><b>🎬 Live Interactive Demo · مشغل الفيديو المباشر (شاهد التجربة هنا دون مغادرة الصفحة)</b></summary>
+<br>
 
-</div>
+https://github.com/user-attachments/assets/faa256b2-4d0b-482f-b58c-2d683c82cf15
 
----
-
-## 🎬 Live Interactive Demo · تجربة عملية حية
-
-<div align="center">
-
-<a href="./assets/recording.mp4">
-  <img src="./assets/demo.gif" alt="Ask Farouk About Creative Thinking - Live Demo" width="850" style="border-radius: 14px; box-shadow: 0 10px 30px rgba(0,0,0,0.15); max-width: 100%;" />
-</a>
+<video src="https://github.com/user-attachments/assets/faa256b2-4d0b-482f-b58c-2d683c82cf15" controls="controls" width="100%" poster="./assets/demo-poster.png">
+  <source src="https://github.com/user-attachments/assets/faa256b2-4d0b-482f-b58c-2d683c82cf15" type="video/mp4">
+  <source src="./assets/recording.mp4" type="video/mp4">
+  <p>Your browser does not support HTML5 video. <a href="./assets/recording.mp4">Click here to watch the full recording</a>.</p>
+</video>
 
 <p align="center">
   <sub>🎥 <b>Interactive Showcase:</b> Using «صنعة الإعلان» in ChatGPT to decompose briefs, find consumer insights, and apply Farouk Elkady's 23 methods with grounded lecture timestamps.</sub>
@@ -41,10 +37,7 @@
   <a href="https://raw.githubusercontent.com/imMamdouhaboammar/ad-craftiness/main/assets/recording.mp4"><b>⚡ Direct Stream (Raw MP4)</b></a>
 </p>
 
-<video src="./assets/recording.mp4" controls="controls" muted="muted" width="100%" poster="./assets/demo-poster.png">
-  <source src="./assets/recording.mp4" type="video/mp4">
-  <p>Your browser does not support HTML5 video. <a href="./assets/recording.mp4">Click here to watch the full recording</a>.</p>
-</video>
+</details>
 
 </div>
 
