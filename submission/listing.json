@@ -1,0 +1,21 @@
+{
+  "name": "Ad Craftiness - صنعة الإعلان",
+  "subtitle": "صنعة الإعلان مع فاروق القاضي",
+  "description": "Playbook احترافي في التفكير الإبداعي وصناعة الأفكار الإعلانية مبني بدقة وأمانة علمية على ورشة الأستاذ فاروق القاضي (Farouk Elkady): 'إزاي تطلع فكرة إعلان؟ | 20 طريقة للتفكير الإبداعي من الصفر'.\n\nتطوير وبرمجة وإعداد: ممدوح أبو عمار (Mamdouh Aboammar) - حقوق التطوير والبرمجة محفوظة للمطور.\nصاحب المحتوى والمنهجية الإبداعية: المخرج والمدير الإبداعي فاروق القاضي (Farouk Elkady).\n\nيشرح المساعد الـ 23 طريقة لتوليد الأفكار وبناء الـ Concept مع شواهد توقيت دقيقة من المحاضرة، ويفصل تماماً وبصرامة بين ما ورد في المحاضرة وبين أي تطبيقات أو اقتراحات مشتقة على الـ Brief.",
+  "category": "Creativity",
+  "developerName": "Mamdouh Aboammar",
+  "websiteURL": "https://immamdouhaboammar.github.io/ad-craftiness/",
+  "customerSupportURL": "https://immamdouhaboammar.github.io/ad-craftiness/support.html",
+  "privacyPolicyURL": "https://immamdouhaboammar.github.io/ad-craftiness/privacy.html",
+  "termsOfServiceURL": "https://immamdouhaboammar.github.io/ad-craftiness/terms.html",
+  "version": "1.0.0",
+  "packageName": "ask-farouk-about-creative-thinking",
+  "capabilities": [
+    "Read"
+  ],
+  "starterPrompts": [
+    "بسأل فاروق: إزاي أطلع فكرة إعلان من Brief جديد؟",
+    "اشرح لي الـ Concept Build-up بالمثال اللي في المحاضرة",
+    "اديني 3 اتجاهات لحملة إعلانية بناءً على الـ Brief ده وعلم استنتاجاتك"
+  ]
+}

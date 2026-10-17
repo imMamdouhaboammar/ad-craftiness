@@ -25,6 +25,10 @@ This guide provides the complete submission details, copy-paste fields, and revi
 | **Developer Name** | Max 80 chars | `Mamdouh Aboammar` |
 | **Category** | Supported Category | `Creativity` |
 | **Plugin Architecture** | Option | `Skills` / `Skills-only` |
+| **Website URL** | Public HTTPS | `https://immamdouhaboammar.github.io/ad-craftiness/` |
+| **Support URL** | Public HTTPS | `https://immamdouhaboammar.github.io/ad-craftiness/support.html` |
+| **Privacy Policy URL** | Public HTTPS (Accessible) | `https://immamdouhaboammar.github.io/ad-craftiness/privacy.html` |
+| **Terms of Service URL** | Public HTTPS (Accessible) | `https://immamdouhaboammar.github.io/ad-craftiness/terms.html` |
 | **Version** | Semver | `1.0.0` |
 | **Repository URL** | HTTPS | `https://github.com/imMamdouhaboammar/ad-craftiness` |
 | **License** | Open Source | `MIT` |
