@@ -109,12 +109,16 @@
 ## 🚀 Installation & Usage
 
 ### 1. OpenAI ChatGPT / Codex Plugin
-The repository includes standard `.codex-plugin/plugin.json` and root `plugin.json` manifests:
-1. Clone or load the repository locally in your Codex/OpenAI Plugin environment.
-2. Prompt directly:
-   - `Ask Farouk: How do I kick off a new creative brief?`
-   - `Explain the Concept Build-up framework with Farouk's example from the lecture.`
-   - `Generate 3 distinct creative directions for this brief using the 23 methods, and label your assumptions.`
+The package is pre-configured for instant deployment to OpenAI ChatGPT and Codex:
+- **Download Release Archive:** Grab the pre-validated plugin zip from [GitHub Releases](https://github.com/imMamdouhaboammar/ad-craftiness/releases).
+- **Publish to OpenAI:** Upload the zip archive directly to [platform.openai.com/plugins](https://platform.openai.com/plugins) following [OpenAI Plugin Deployment Specifications](https://developers.openai.com/plugins/deploy/submission).
+- **Submission Dossier:** See the complete copy-paste submission guide and reviewer packet in [docs/OPENAI_SUBMISSION.md](./docs/OPENAI_SUBMISSION.md).
+- **Local Testing:** Clone or unpack the repository into your Codex or ChatGPT plugin workspace.
+
+**Example Prompts:**
+- `Ask Farouk: How do I kick off a new creative brief?`
+- `Explain the Concept Build-up framework with Farouk's example from the lecture.`
+- `Generate 3 distinct creative directions for this brief using the 23 methods, and label your assumptions.`
 
 ### 2. Claude Code & Agent Skills Hosts
 Copy `skills/ask-farouk-creative-thinking` into your local `.claude/skills/` or `.agents/skills/` directory.
