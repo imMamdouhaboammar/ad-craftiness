@@ -26,6 +26,30 @@
 
 ---
 
+## 🎬 Live Interactive Demo · تجربة عملية حية
+
+<div align="center">
+
+<a href="./assets/recording.mp4">
+  <img src="./assets/demo.gif" alt="Ask Farouk About Creative Thinking - Live Demo" width="850" style="border-radius: 14px; box-shadow: 0 10px 30px rgba(0,0,0,0.15); max-width: 100%;" />
+</a>
+
+<p align="center">
+  <sub>🎥 <b>Interactive Showcase:</b> Using «صنعة الإعلان» in ChatGPT to decompose briefs, find consumer insights, and apply Farouk Elkady's 23 methods with grounded lecture timestamps.</sub>
+  <br><br>
+  <a href="./assets/recording.mp4"><b>▶️ Watch High-Definition Video (1080p MP4)</b></a> &nbsp;|&nbsp;
+  <a href="https://github.com/imMamdouhaboammar/ad-craftiness/releases/download/v1.0.0/recording.mp4"><b>⚡ Fast CDN Streaming</b></a>
+</p>
+
+<video src="./assets/recording.mp4" controls="controls" muted="muted" width="100%" poster="./assets/demo-poster.png">
+  <source src="./assets/recording.mp4" type="video/mp4">
+  <p>Your browser does not support HTML5 video. <a href="./assets/recording.mp4">Click here to watch the full recording</a>.</p>
+</video>
+
+</div>
+
+---
+
 ## 📌 Attribution & Credits
 
 > [!IMPORTANT]
@@ -152,11 +176,14 @@ python3 -m unittest discover -s tests -v
 ├── .github/
 │   └── workflows/ci.yml              # GitHub Actions CI workflow
 ├── assets/
+│   ├── demo.gif                      # Autoplay animated preview for README
+│   ├── demo-poster.png               # High-definition video poster frame
 │   ├── icon.png                      # Square 512x512 composer icon
 │   ├── logo.png                      # Official 1254x1254 brand logo
 │   ├── logo.svg                      # Square vector brand logo
 │   ├── logo-light.svg                # Vector logo for light backgrounds
-│   └── logo-dark.svg                 # Vector logo for dark backgrounds
+│   ├── logo-dark.svg                 # Vector logo for dark backgrounds
+│   └── recording.mp4                 # Full 1080p interactive demo recording
 ├── evals/
 │   └── cases.json                    # Benchmark evaluation questions
 ├── scripts/
@@ -197,6 +224,11 @@ python3 -m unittest discover -s tests -v
 
 ### نبذة عن المشروع
 هذا المشروع هو **Playbook تفاعلي ذكي** لتحويل ورشة العمل الإعلانية للأستاذ **فاروق القاضي** (*"إزاي تطلع فكرة إعلان؟ | 20 طريقة للتفكير الإبداعي من الصفر"*) إلى مساعد ذكي موثق بالدقيقة والثانية لصناع الإعلانات والـ Copywriters والـ Creative Directors.
+
+### 🎬 تجربة تفاعلية مصورة (Live Demo)
+شاهد المساعد الذكي يعمل بشكل حي وتفاعلي داخل ChatGPT لتوليد الأفكار وتحليل الـ Insights:
+- **مشاهدة الفيديو داخل المستودع:** [assets/recording.mp4](./assets/recording.mp4)
+- **رابط التحميل المباشر عالي الدقة:** [تحميل الفيديو (1080p MP4)](https://github.com/imMamdouhaboammar/ad-craftiness/releases/download/v1.0.0/recording.mp4)
 
 ### الحقوق ونسب العمل
 - **تطوير وبناء الـ Skill:** **ممدوح أبو عمار (Mamdouh Aboammar)** — مسؤول عن تطوير الـ Skill البرمجي، كتابة الـ Playbook التفاعلي، إعداد ملفات التوافق (`Manifests`) لجميع المنصات، وحزم الاختبارات الآلية (`tests`).
