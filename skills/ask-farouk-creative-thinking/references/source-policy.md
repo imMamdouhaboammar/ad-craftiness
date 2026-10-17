@@ -2,7 +2,7 @@
 
 ## Slogan
 - **العربية:** "صنعة الإعلان"
-- **English:** "Ad Craftness"
+- **English:** "Ad Craftiness"
 
 ## Rights and Roles
 - **Developer & Architect:** ممدوح أبو عمار (**Mamdouh Aboammar**) — كامل حقوق البرمجة، التطوير، هندسة المساعد الذكي، كتابة الـ Playbook وتصميم التجربة لجميع المنصات (Multi-Agent Skills & Plugins).
@@ -21,7 +21,7 @@
 
 ## Source Hierarchy & Grounding Rules
 
-**Primary:** user-supplied cleaned transcript of Farouk El-Qady, "إزاي تطلع فكرة إعلان؟ | 20 طريقة للتفكير الإبداعي من الصفر", beginning at 00:00 and ending at 51:15. This is a third-party lecture transcript, provided by the user, not independently checked against a video recording.
+**Primary:** user-supplied cleaned transcript of Farouk Elkady, "إزاي تطلع فكرة إعلان؟ | 20 طريقة للتفكير الإبداعي من الصفر", beginning at 00:00 and ending at 51:15. This is a third-party lecture transcript, provided by the user, not independently checked against a video recording.
 
 **Secondary:** user-supplied Q&A, explicitly *not* treated as a primary source because many assertions go beyond what the workshop says. Used to seed negative-attribution evals only. It is not included in the plugin's retrieval corpus.
 

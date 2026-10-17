@@ -1,8 +1,8 @@
 {
-  "name": "ad-craftness",
+  "name": "ad-craftiness",
   "version": "1.0.0",
-  "description": "صنعة الإعلان | Ad Craftness: Source-grounded Arabic creative-thinking playbook based on Farouk Elkady's advertising workshop, developed by Mamdouh Aboammar.",
-  "slogan": "صنعة الإعلان | Ad Craftness",
+  "description": "صنعة الإعلان | Ad Craftiness: Source-grounded Arabic creative-thinking playbook based on Farouk Elkady's advertising workshop, developed by Mamdouh Aboammar.",
+  "slogan": "صنعة الإعلان | Ad Craftiness",
   "author": {
     "name": "Mamdouh Aboammar",
     "email": "mamdouhfces1997@gmail.com",
@@ -17,14 +17,14 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/imMamdouhaboammar/ad-craftness.git"
+    "url": "git+https://github.com/imMamdouhaboammar/ad-craftiness.git"
   },
   "bugs": {
-    "url": "https://github.com/imMamdouhaboammar/ad-craftness/issues"
+    "url": "https://github.com/imMamdouhaboammar/ad-craftiness/issues"
   },
-  "homepage": "https://github.com/imMamdouhaboammar/ad-craftness#readme",
+  "homepage": "https://github.com/imMamdouhaboammar/ad-craftiness#readme",
   "keywords": [
-    "ad-craftness",
+    "ad-craftiness",
     "creative-thinking",
     "advertising",
     "صنعة-الإعلان",

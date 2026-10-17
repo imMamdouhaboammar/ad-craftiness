@@ -38,19 +38,19 @@ class TestPackage(unittest.TestCase):
         meta = json.loads((ROOT / "plugin.json").read_text(encoding="utf-8"))
         interface = meta["extensions"]["com.openai"]["interface"]
         self.assertIn("صنعة الإعلان", interface["displayName"])
-        self.assertIn("Ad Craftness", interface["displayName"])
+        self.assertIn("Ad Craftiness", interface["displayName"])
         self.assertEqual(interface["developerName"], "Mamdouh Aboammar")
         self.assertIn("Farouk Elkady", interface["longDescription"])
 
         skill_md = (ROOT / "skills/ask-farouk-creative-thinking/SKILL.md").read_text(encoding="utf-8")
         self.assertIn("صنعة الإعلان", skill_md)
-        self.assertIn("Ad Craftness", skill_md)
+        self.assertIn("Ad Craftiness", skill_md)
         self.assertIn("Mamdouh Aboammar", skill_md)
         self.assertIn("Farouk", skill_md)
 
         source_policy = (REF / "source-policy.md").read_text(encoding="utf-8")
         self.assertIn("صنعة الإعلان", source_policy)
-        self.assertIn("Ad Craftness", source_policy)
+        self.assertIn("Ad Craftiness", source_policy)
         self.assertIn("Mamdouh Aboammar", source_policy)
         self.assertIn("Farouk Elkady", source_policy)
 
@@ -63,6 +63,16 @@ class TestPackage(unittest.TestCase):
         self.assertLessEqual(len(interface["longDescription"]), 4000)
 
     def test_assets_validity(self):
+        import struct
+        for png_name in ["logo.png", "icon.png"]:
+            png_path = ROOT / "assets" / png_name
+            self.assertTrue(png_path.exists(), f"Asset {png_name} missing")
+            data = png_path.read_bytes()
+            self.assertEqual(data[:8], b"\x89PNG\r\n\x1a\n")
+            w, h = struct.unpack(">II", data[16:24])
+            self.assertEqual(w, h, f"{png_name} is not square")
+            self.assertGreaterEqual(w, 48)
+
         for asset_name in ["logo.svg", "icon.svg", "logo-dark.svg", "logo-light.svg"]:
             asset_path = ROOT / "assets" / asset_name
             self.assertTrue(asset_path.exists(), f"Asset {asset_name} missing")

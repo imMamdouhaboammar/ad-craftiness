@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="./assets/logo.svg" alt="صنعة الإعلان - Ad Craftness" width="180" height="180" style="border-radius: 36px; margin-bottom: 16px;" />
+<img src="./assets/logo.png" alt="صنعة الإعلان - Ad Craftiness" width="180" height="180" style="border-radius: 36px; margin-bottom: 16px;" />
 
-# صنعة الإعلان | Ad Craftness
+# صنعة الإعلان | Ad Craftiness
 ### Creative Thinking & Advertising Concept Playbook
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
@@ -19,7 +19,7 @@
 ---
 
 **السلوجان الرسمي / Official Slogan:**  
-### 🌟 «صنعة الإعلان» — "Ad Craftness" 🌟
+### 🌟 «صنعة الإعلان» — "Ad Craftiness" 🌟
 
 </div>
 

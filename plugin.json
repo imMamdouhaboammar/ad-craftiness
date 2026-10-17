@@ -2,7 +2,7 @@
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "ask-farouk-about-creative-thinking",
   "version": "1.0.0",
-  "description": "صنعة الإعلان | Ad Craftness: Source-grounded Arabic creative-thinking playbook based on Farouk Elkady's advertising workshop, developed by Mamdouh Aboammar.",
+  "description": "صنعة الإعلان | Ad Craftiness: Source-grounded Arabic creative-thinking playbook based on Farouk Elkady's advertising workshop, developed by Mamdouh Aboammar.",
   "author": {
     "name": "Mamdouh Aboammar",
     "email": "mamdouhfces1997@gmail.com"
@@ -11,7 +11,7 @@
   "keywords": [
     "creative thinking",
     "advertising",
-    "Ad Craftness",
+    "Ad Craftiness",
     "صنعة الإعلان",
     "Farouk Elkady",
     "Mamdouh Aboammar",
@@ -23,12 +23,12 @@
   "extensions": {
     "com.openai": {
       "interface": {
-        "displayName": "Ad Craftness - صنعة الإعلان",
+        "displayName": "Ad Craftiness - صنعة الإعلان",
         "shortDescription": "صنعة الإعلان مع فاروق القاضي",
         "developerName": "Mamdouh Aboammar",
         "category": "Creativity",
-        "logo": "./assets/logo.svg",
-        "composerIcon": "./assets/icon.svg",
+        "logo": "./assets/logo.png",
+        "composerIcon": "./assets/icon.png",
         "longDescription": "Playbook احترافي في التفكير الإبداعي وصناعة الأفكار الإعلانية مبني بدقة وأمانة علمية على ورشة الأستاذ فاروق القاضي (Farouk Elkady): 'إزاي تطلع فكرة إعلان؟ | 20 طريقة للتفكير الإبداعي من الصفر'.\n\nتطوير وهندسة وبناء: ممدوح أبو عمار (Mamdouh Aboammar) - حقوق التطوير والبرمجة والتصميم محفوظة بالكامل للمطور.\nصاحب المحتوى والمنهجية الإبداعية: المخرج والمدير الإبداعي فاروق القاضي (Farouk Elkady).\n\nيشرح المساعد الـ 23 طريقة لتوليد الأفكار وبناء الـ Concept مع شواهد توقيت دقيقة من المحاضرة، ويفصل تماماً وبصرامة بين ما ورد في المحاضرة وبين أي تطبيقات أو اقتراحات مشتقة على الـ Brief.",
         "capabilities": [
           "Read"
