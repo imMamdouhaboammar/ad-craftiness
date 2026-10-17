@@ -12,6 +12,9 @@ This guide provides the complete submission details, copy-paste fields, and revi
   - `ad-craftiness-plugin-v1.0.0.zip`
 - **Architecture:** `skills-only` (no external credentials or hosted server required).
 - **SHA-256 Checksum:** `69bf0b19e343001eaa2793c4329e9f1acc5db968e9b442718899fab2c7b4d699`
+- **⚡ Instant 1-Click Install (ChatGPT Work):**
+  - [Install with ChatGPT Work →](https://chatgpt.com/work?q=In%20Work%20Mode%3A%0AUse%20%40Plugin%20Creator%20to%20install%20https%3A%2F%2Fgithub.com%2FimMamdouhaboammar%2Fad-craftiness%20and%20Configure%20It%20for%20me)
+  - Direct Link: `https://chatgpt.com/work?q=In%20Work%20Mode%3A%0AUse%20%40Plugin%20Creator%20to%20install%20https%3A%2F%2Fgithub.com%2FimMamdouhaboammar%2Fad-craftiness%20and%20Configure%20It%20for%20me`
 
 ---
 

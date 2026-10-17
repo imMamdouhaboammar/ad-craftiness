@@ -126,6 +126,25 @@ https://github.com/user-attachments/assets/faa256b2-4d0b-482f-b58c-2d683c82cf15
 ## 🚀 Installation & Usage
 
 ### 1. OpenAI ChatGPT / Codex Plugin
+
+#### ⚡ Quick Install: Install & Configure with ChatGPT Work
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/openai.png" />
+  <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/openai.png" width="24" height="24" alt="ChatGPT Logo" align="absmiddle" />
+</picture> **Install & Configure with ChatGPT Work**
+
+No manual setup required. Open the link below to launch ChatGPT Work with a pre-filled prompt that guides Plugin Creator through installing and configuring Ad Craftiness for you.
+
+[![Install with ChatGPT Work](https://img.shields.io/badge/Install%20with-ChatGPT%20Work-10a37f?style=for-the-badge&logo=openai&logoColor=white)](https://chatgpt.com/work?q=In%20Work%20Mode%3A%0AUse%20%40Plugin%20Creator%20to%20install%20https%3A%2F%2Fgithub.com%2FimMamdouhaboammar%2Fad-craftiness%20and%20Configure%20It%20for%20me)
+
+[Install with ChatGPT Work →](https://chatgpt.com/work?q=In%20Work%20Mode%3A%0AUse%20%40Plugin%20Creator%20to%20install%20https%3A%2F%2Fgithub.com%2FimMamdouhaboammar%2Fad-craftiness%20and%20Configure%20It%20for%20me)
+
+https://chatgpt.com/work?q=In%20Work%20Mode%3A%0AUse%20%40Plugin%20Creator%20to%20install%20https%3A%2F%2Fgithub.com%2FimMamdouhaboammar%2Fad-craftiness%20and%20Configure%20It%20for%20me
+
+---
+
+#### 📦 Manual Setup & Directory Submission
 The package is pre-configured for instant deployment to OpenAI ChatGPT and Codex:
 - **Download Release Archive:** Grab the pre-validated plugin zip from [GitHub Releases](https://github.com/imMamdouhaboammar/ad-craftiness/releases).
 - **Publish to OpenAI:** Upload the zip archive directly to [platform.openai.com/plugins](https://platform.openai.com/plugins) following [OpenAI Plugin Deployment Specifications](https://developers.openai.com/plugins/deploy/submission).
@@ -222,6 +241,21 @@ python3 -m unittest discover -s tests -v
 شاهد المساعد الذكي يعمل بشكل حي وتفاعلي داخل ChatGPT لتوليد الأفكار وتحليل الـ Insights:
 - **مشاهدة الفيديو داخل المستودع:** [assets/recording.mp4](./assets/recording.mp4)
 - **رابط المشاهدة المباشر عالي الدقة:** [رابط مباشر للفيديو (Raw 1080p MP4)](https://raw.githubusercontent.com/imMamdouhaboammar/ad-craftiness/main/assets/recording.mp4)
+
+### ⚡ التثبيت السريع عبر ChatGPT Work (بدون إعداد يدوي)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/openai.png" />
+  <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/openai.png" width="22" height="22" alt="ChatGPT Logo" align="absmiddle" />
+</picture> **Install & Configure with ChatGPT Work**
+
+لا يتطلب أي إعداد يدوي. افتح الرابط أدناه لبدء ChatGPT Work مع برومبت جاهز يوجّه Plugin Creator لتثبيت وضبط «صنعة الإعلان» لك:
+
+[![Install with ChatGPT Work](https://img.shields.io/badge/Install%20with-ChatGPT%20Work-10a37f?style=for-the-badge&logo=openai&logoColor=white)](https://chatgpt.com/work?q=In%20Work%20Mode%3A%0AUse%20%40Plugin%20Creator%20to%20install%20https%3A%2F%2Fgithub.com%2FimMamdouhaboammar%2Fad-craftiness%20and%20Configure%20It%20for%20me)
+
+[Install with ChatGPT Work →](https://chatgpt.com/work?q=In%20Work%20Mode%3A%0AUse%20%40Plugin%20Creator%20to%20install%20https%3A%2F%2Fgithub.com%2FimMamdouhaboammar%2Fad-craftiness%20and%20Configure%20It%20for%20me)
+
+https://chatgpt.com/work?q=In%20Work%20Mode%3A%0AUse%20%40Plugin%20Creator%20to%20install%20https%3A%2F%2Fgithub.com%2FimMamdouhaboammar%2Fad-craftiness%20and%20Configure%20It%20for%20me
 
 ### الحقوق ونسب العمل
 - **تطوير وبناء الـ Skill:** **ممدوح أبو عمار (Mamdouh Aboammar)** — مسؤول عن تطوير الـ Skill البرمجي، كتابة الـ Playbook التفاعلي، إعداد ملفات التوافق (`Manifests`) لجميع المنصات، وحزم الاختبارات الآلية (`tests`).
