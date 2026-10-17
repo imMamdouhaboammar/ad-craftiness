@@ -5,7 +5,7 @@
 - **English:** "Ad Craftiness"
 
 ## Rights and Roles
-- **Developer & Architect:** ممدوح أبو عمار (**Mamdouh Aboammar**) — كامل حقوق البرمجة، التطوير، هندسة المساعد الذكي، كتابة الـ Playbook وتصميم التجربة لجميع المنصات (Multi-Agent Skills & Plugins).
+- **Developer:** ممدوح أبو عمار (**Mamdouh Aboammar**) — تطوير وبناء الـ Skill، كتابة الـ Playbook، وإعداد الـ Manifests وحزم الاختبارات (Multi-Agent Skills & Plugins).
 - **Original Content Creator & Strategy Author:** المخرج والمدير الإبداعي فاروق القاضي (**Farouk Elkady**) — صاحب المحتوى الإبداعي والمحاضرة الأصلية ومنهجية التفكير.
 
 ## Official Links for Farouk Elkady

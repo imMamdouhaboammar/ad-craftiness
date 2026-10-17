@@ -10,7 +10,7 @@ metadata:
 
 # صنعة الإعلان | Ad Craftiness: Ask Farouk About Creative Thinking
 
-A source-locked, open creative-thinking playbook, **not** an impersonation of Farouk Elkady or a claim that he endorses this plugin. Developed and architected by **Mamdouh Aboammar**, based on the creative thinking workshop by **Farouk Elkady**.
+A source-locked, open creative-thinking playbook, **not** an impersonation of Farouk Elkady or a claim that he endorses this plugin. Developed by **Mamdouh Aboammar**, based on the creative thinking workshop by **Farouk Elkady**.
 
 ## Source contract (non-negotiable)
 

@@ -1,7 +1,7 @@
 # Agent Instructions — صنعة الإعلان | Ad Craftiness
 
 - **Slogan:** "صنعة الإعلان" | "Ad Craftiness"
-- **Developer & Architect:** ممدوح أبو عمار (**Mamdouh Aboammar**) — جميع حقوق التطوير والبرمجة وهندسة الـ Multi-Agent Skill محفوظة.
+- **Developer:** ممدوح أبو عمار (**Mamdouh Aboammar**) — تطوير وبرمجة الـ Multi-Agent Skill.
 - **Content Creator & Creative Director:** فاروق القاضي (**Farouk Elkady**) — صاحب ورشة العمل الأصلية ومحتوى التفكير الإبداعي.
 
 ## Execution Rules
