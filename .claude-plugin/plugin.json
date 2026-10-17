@@ -1,0 +1,10 @@
+{
+  "name": "ad-craftness",
+  "version": "1.0.0",
+  "description": "صنعة الإعلان | Ad Craftness: Creative Thinking Playbook based on Farouk Elkady's workshop, developed by Mamdouh Aboammar.",
+  "author": {
+    "name": "Mamdouh Aboammar",
+    "email": "mamdouhfces1997@gmail.com"
+  },
+  "skills": "./skills"
+}

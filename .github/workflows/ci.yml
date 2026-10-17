@@ -1,0 +1,28 @@
+name: CI & Plugin Quality Gate
+
+on:
+  push:
+    branches: [ main, master ]
+  pull_request:
+    branches: [ main, master ]
+
+jobs:
+  test:
+    name: Test Suite & Grounding Integrity
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Run Package & Grounding Tests
+        run: |
+          python3 -m unittest discover -s tests -v
+
+      - name: Test Search Script
+        run: |
+          python3 scripts/search.py "Concept" --context 1
