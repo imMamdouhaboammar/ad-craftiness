@@ -38,7 +38,7 @@
   <sub>🎥 <b>Interactive Showcase:</b> Using «صنعة الإعلان» in ChatGPT to decompose briefs, find consumer insights, and apply Farouk Elkady's 23 methods with grounded lecture timestamps.</sub>
   <br><br>
   <a href="./assets/recording.mp4"><b>▶️ Watch High-Definition Video (1080p MP4)</b></a> &nbsp;|&nbsp;
-  <a href="https://github.com/imMamdouhaboammar/ad-craftiness/releases/download/v1.0.0/recording.mp4"><b>⚡ Fast CDN Streaming</b></a>
+  <a href="https://raw.githubusercontent.com/imMamdouhaboammar/ad-craftiness/main/assets/recording.mp4"><b>⚡ Direct Stream (Raw MP4)</b></a>
 </p>
 
 <video src="./assets/recording.mp4" controls="controls" muted="muted" width="100%" poster="./assets/demo-poster.png">
@@ -228,7 +228,7 @@ python3 -m unittest discover -s tests -v
 ### 🎬 تجربة تفاعلية مصورة (Live Demo)
 شاهد المساعد الذكي يعمل بشكل حي وتفاعلي داخل ChatGPT لتوليد الأفكار وتحليل الـ Insights:
 - **مشاهدة الفيديو داخل المستودع:** [assets/recording.mp4](./assets/recording.mp4)
-- **رابط التحميل المباشر عالي الدقة:** [تحميل الفيديو (1080p MP4)](https://github.com/imMamdouhaboammar/ad-craftiness/releases/download/v1.0.0/recording.mp4)
+- **رابط المشاهدة المباشر عالي الدقة:** [رابط مباشر للفيديو (Raw 1080p MP4)](https://raw.githubusercontent.com/imMamdouhaboammar/ad-craftiness/main/assets/recording.mp4)
 
 ### الحقوق ونسب العمل
 - **تطوير وبناء الـ Skill:** **ممدوح أبو عمار (Mamdouh Aboammar)** — مسؤول عن تطوير الـ Skill البرمجي، كتابة الـ Playbook التفاعلي، إعداد ملفات التوافق (`Manifests`) لجميع المنصات، وحزم الاختبارات الآلية (`tests`).
