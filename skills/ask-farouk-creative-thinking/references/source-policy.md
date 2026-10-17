@@ -1,6 +1,6 @@
 # Attribution, Limitations and Licensing
 
-## Slogan
+## «صنعة الإعلان» — "Ad Craftiness"
 - **العربية:** "صنعة الإعلان"
 - **English:** "Ad Craftiness"
 

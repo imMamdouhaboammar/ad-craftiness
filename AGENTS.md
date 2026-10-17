@@ -1,6 +1,6 @@
-# Agent Instructions — صنعة الإعلان | Ad Craftiness
+# Agent Instructions — Ask Farouk About Creative Thinking
 
-- **Slogan:** "صنعة الإعلان" | "Ad Craftiness"
+- **الهوية:** «صنعة الإعلان» — "Ad Craftiness"
 - **Developer:** ممدوح أبو عمار (**Mamdouh Aboammar**) — تطوير وبرمجة الـ Multi-Agent Skill.
 - **Content Creator & Creative Director:** فاروق القاضي (**Farouk Elkady**) — صاحب ورشة العمل الأصلية ومحتوى التفكير الإبداعي.
 

@@ -1,8 +1,7 @@
 {
-  "name": "ad-craftiness",
+  "name": "ask-farouk-about-creative-thinking",
   "version": "1.0.0",
-  "description": "صنعة الإعلان | Ad Craftiness: Source-grounded Arabic creative-thinking playbook based on Farouk Elkady's advertising workshop, developed by Mamdouh Aboammar.",
-  "slogan": "صنعة الإعلان | Ad Craftiness",
+  "description": "Ask Farouk About Creative Thinking — «صنعة الإعلان» | 'Ad Craftiness'. Source-grounded Arabic creative-thinking playbook based on Farouk Elkady's advertising workshop, developed by Mamdouh Aboammar.",
   "author": {
     "name": "Mamdouh Aboammar",
     "email": "mamdouhfces1997@gmail.com",
@@ -24,9 +23,10 @@
   },
   "homepage": "https://github.com/imMamdouhaboammar/ad-craftiness#readme",
   "keywords": [
-    "ad-craftiness",
+    "ask-farouk",
     "creative-thinking",
     "advertising",
+    "ad-craftiness",
     "صنعة-الإعلان",
     "farouk-elkady",
     "mamdouh-aboammar",

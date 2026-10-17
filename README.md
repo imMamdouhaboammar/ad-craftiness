@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="./assets/logo.png" alt="Ad Craftiness - صنعة الإعلان" width="180" height="180" style="border-radius: 36px; margin-bottom: 16px;" />
+<img src="./assets/logo.png" alt="Ask Farouk About Creative Thinking - صنعة الإعلان" width="180" height="180" style="border-radius: 36px; margin-bottom: 16px;" />
 
-# Ad Craftiness | صنعة الإعلان
-### Creative Thinking & Advertising Concept Playbook
+# Ask Farouk About Creative Thinking
+### «صنعة الإعلان» · "Ad Craftiness"
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
 [![Tests](https://img.shields.io/badge/Tests-Passing-success.svg)](./tests)
@@ -18,8 +18,9 @@
 
 ---
 
-**Official Slogan / السلوجان الرسمي:**  
-### 🌟 "Ad Craftiness" — «صنعة الإعلان» 🌟
+<p align="center">
+  <b>«صنعة الإعلان» — "Ad Craftiness"</b>
+</p>
 
 </div>
 

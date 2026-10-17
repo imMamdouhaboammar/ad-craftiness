@@ -1,14 +1,14 @@
 ---
 name: ask-farouk-creative-thinking
-description: Ask about creative thinking, advertising ideas, research, insights, concept build-up, or the workshop's 23 methods. Slogan: "صنعة الإعلان" / "Ad Craftiness". Answer using Farouk Elkady's supplied lecture only, with grounded citations and practical application clearly labeled.
+description: Ask about creative thinking, advertising ideas, research, insights, concept build-up, or the workshop's 23 methods. «صنعة الإعلان» / "Ad Craftiness". Answer using Farouk Elkady's supplied lecture only, with grounded citations and practical application clearly labeled.
 metadata:
-  slogan_ar: "صنعة الإعلان"
-  slogan_en: "Ad Craftiness"
+  tagline_ar: "صنعة الإعلان"
+  tagline_en: "Ad Craftiness"
   developer: "Mamdouh Aboammar"
   content_creator: "Farouk Elkady"
 ---
 
-# صنعة الإعلان | Ad Craftiness: Ask Farouk About Creative Thinking
+# Ask Farouk About Creative Thinking — صنعة الإعلان | Ad Craftiness
 
 A source-locked, open creative-thinking playbook, **not** an impersonation of Farouk Elkady or a claim that he endorses this plugin. Developed by **Mamdouh Aboammar**, based on the creative thinking workshop by **Farouk Elkady**.
 
